@@ -9,6 +9,6 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "puppeteer": "^19.2.2"
+    "puppeteer": "^19.11.1"
   }
 }
